@@ -1,0 +1,7 @@
+# Temporary and local files
+~$*.xlsx
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Keep screenshots only when actual images are added
